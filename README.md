@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build secure, full-stack applications. <br>With a background in AI/ML and Cisco-certified networking, I bridge the gap between complex logic and elegant code.<br>Currently seeking impactful roles in software engineering and AI/ML..<br> Let’s build something secure!
+I build secure full-stack applications. <br>With a background in AI/ML, I bridge the gap between complex logic and elegant code.<br>Currently seeking impactful roles in software engineering and AI/ML..<br> Let’s build something secure!
 
 
 ## 🌐 Socials:
